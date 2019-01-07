@@ -9,15 +9,16 @@ Blog: [When an earthquake hits, Watson solution helps schools cope](https://deve
 [![Helpchain](https://img.youtube.com/vi/LE2ZWJ3WUms/0.jpg)](https://www.youtube.com/watch?v=LE2ZWJ3WUms)
 
 
-Vision Statement: To provide a lifesaving solution for natural disasters
+## Vision Statement
+To provide a lifesaving solution for natural disasters
 
-Mission Statement: To make emergency data accessible and act on them.
+## Mission Statement
+To make emergency data accessible and act on them.
 
-Solution Name: Frida
+## Solution Name: Frida
 We named it after Frida who is a rescue dog belonging to the Mexican Navy, with her handler Israel Arauz Salinas, takes part in the effort to look for people trapped at the Rebsamen school in Mexico City, on September 22, 2017. She has detected the bodies of 52 people throughout her caree and has become the hero symbolic for their country's rescuing effort.
 
-Solution in Detail:
-```````````````````````````````````
+## Solution in Detail:
 In 2018, the Call for Code Global Challenge asks developers to create solutions that significantly improve preparedness for natural disasters and relief when they hit. We are committed to this cause! We are pushing for change, answering the call, and developing a lifesaving solution for natural disasters, called frida. We choose to focus on earthquakes because they tend to happen unexpectedly and affect everyone in that area. Specifically, our solution targets schools and earthquakes. Because of the vulnerability of the students and cost of damage to school buildings, helping schools prepare for an earthquake, respond during an earthquake, and recover after an earthquake are extremely critical goals.
 
 We have developed an end to end solution with a mobile AI-enabled application called Frida, and an IoT device called fridaSOS, that can be installed in schools and universities. The solution uses built-in AI functions to provide earthquake preparation, guide people through drills, predict the magnitude of earthquakes based on sensor data, identify the best escape routes during earthquakes, and detect people trapped in damaged classrooms. It is a first-of-a-kind complete solution for providing data collection, monitoring, notifications, and guidance before, during, and after a disaster.
