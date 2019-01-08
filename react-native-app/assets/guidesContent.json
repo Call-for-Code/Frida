@@ -1,0 +1,88 @@
+{
+	"earthquake": {
+		"title": "Earthquake",
+		"description": "More than a million earthquakes rattle the world each year. The West Coast is most at risk of having an earthquake, but earthquakes can happen in the Midwest and along the East Coast. Always listen to the radio and television for the latest information and instructions for your area.",
+		"sections": [
+			{
+				"title": "Before an Earthquake",
+				"body": "1. Have a disaster plan.\n\n2. Choose a safe place in every room. It’s best to get under a sturdy piece of furniture like a table or a desk where nothing can fall on you.\n\n3. Practice DROP, COVER AND HOLD ON! Drop under something sturdy, hold on, and protect your eyes by pressing your face against your arm.\n\n4. If you live in an earthquake prone area, bolt tall furniture to the wall and install strong latches to cupboards.\n\n5. Prepare a disaster supplies kit for your classroom. Include a first aid kit,unparishable snacks, bottled water, battery-operated radio, flashlight, written contact list, and a map of you school’s exits."
+			},
+			{
+				"title": "During an Earthquake",
+				"body": "1. DROP, COVER AND HOLD ON!\n\n2. Stay indoors until the shaking stops."
+			}
+		]
+	},
+	"volcano": {
+		"title": "Volcanic Eruption",
+		"description": "Volcanoes can produce ash, toxic gases, flash-floods of hot water and debris. Some dangers from volcanoes can be predicted ahead of time while others may occur with little or no notice after an eruption.",
+		"sections": [
+			{
+				"title": "Before Volcanic Eruption",
+				"body": "1. Be prepared either to shelter or to evacuate. Develop an evacuation plan and a sheltering plan for yourself, your family, and others in your household. put together an emergency supply kit.\n\n2. If you are told to evacuate, follow authorities’ instructions if they tell you to leave the area.\n\n3. If you are told to take shelter where you are, Keep listening to your radio or television until you are told all is safe or you are told to evacuate. "
+			},
+			{
+				"title": "During Volcanic Eruption",
+				"body": "The best way to do protect yourself and your family is to follow the advice of local officials who will provide you with information on how to prepare for a volcanic eruption, and if necessary, on how to evacuate (leave the area) or take shelter where you are."
+			},
+			{
+				"title": "After Volcanic Eruption",
+				"body": "1. Pay attention to warnings, and obey instructions from local authorities.\n\n2. Listen to local news updates for information about air quality, drinking water, and roads."
+			}
+		]
+	},
+	"flooding": {
+		"title": "Flooding",
+		"description": "A flood is an overflow of water that submerges land that is usually dry.",
+		"sections": [
+			{
+				"title": "Before Flooding",
+				"body": "1. Contact the local county geologist or county planning department to find out if your home is located in a flash-flood-prone area or landslide-prone area.\n\n2.Learn about your community’s emergency plans, warning signals, evacuation routes, and locations of emergency shelters.\n\n3.Plan and practice a flood evacuation route with your family."
+			},
+			{
+				"title": "During Flooding",
+				"body": "1. Gather the emergency supplies you previously stocked in your home and stay tuned to local radio or television station for updates.\n\n2. Turn off all utilities at the main power switch and close the main gas valve if evacuation appears necessary."
+			},
+			{
+				"title": "After Flooding",
+				"body": "1. Electrical power and natural gas or propane tanks should be shut off to avoid fire, electrocution, or explosions.\n\n2. Cleanup\n\n3. Immunizations"
+			}
+		]
+	},
+	"landslide": {
+		"title": "Landslide",
+		"description": "Landslides occur when masses of rock, earth, or debris move down a slope.",
+		"sections": [
+			{
+				"title": "Before intense storms and rainfall",
+				"body": "1. Learn whether landslides have occurred previously in your area by contacting local authorities, a county geologist or the county planning department, state geological surveys or departments of natural resources, or university departments of geology.\n\n2. Contact local authorities about emergency and evacuation plans."
+			},
+			{
+				"title": "During intense storms and rainfall",
+				"body": "1. Listen to the radio or watch TV for warnings about intense rainfall or for information and instructions from local officials.\n\n2. Listen for rumbling sounds that might indicate an approaching landslide or mudflow."
+			},
+			{
+				"title": "After a landslide or debris flow",
+				"body": "1. Stay away from the site. Flooding or additional slides may occur after a landslide or mudflow.\n\n2. Check for injured or trapped people near the affected area"
+			}
+		]
+	},
+	"tornado": {
+		"title": "Tornado",
+		"description": "A tornado is a rapidly rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud",
+		"sections": [
+			{
+				"title": "Before Tornado",
+				"body": "1. Stay tuned for storm watches and warnings\n\n2. Take a few minutes with your family to develop a tornado emergency plan\n\n3. Show a second way to exit from each room or area."
+			},
+			{
+				"title": "During Tornado",
+				"body": "1. Watch the signs of an approaching storm and funnel cloud\n\n2. Take shelter, home, or mobile home\n\n3. Extra care is required in offices, schools, hospitals, or any building where a large group of people is concentrated in a small area."
+			},
+			{
+				"title": "After Tornado",
+				"body": "1. General Safety Precautions\n\n2. Inspecting the Damage\n\n3. Safety During cleanup: Learn proper safety procedures and operating instructions before operating any gas-powered or electric-powered saws or tools."
+			}
+		]
+	}
+}
