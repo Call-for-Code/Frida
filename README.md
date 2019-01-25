@@ -6,6 +6,12 @@ Code and documentation is in the process of being transferred. Watch this reposi
 
 Blog: [When an earthquake hits, Watson solution helps schools cope](https://developer.ibm.com/blogs/2018/10/17/mitigating-earthquakes-in-schools/)
 
+This application will consist of four repos including this one, which serves as the entry point and contains umbrella documentation:
+
+[Frida-app](https://github.com/IBM/Frida-app)
+[Frida-backend](https://github.com/IBM/Frida-backend)
+[Frida-ML](https://github.com/IBM/Frida-ML)
+
 [![Helpchain](https://img.youtube.com/vi/LE2ZWJ3WUms/0.jpg)](https://www.youtube.com/watch?v=LE2ZWJ3WUms)
 
 
