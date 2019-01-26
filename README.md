@@ -2,11 +2,10 @@
 
 Frida is an end-to-end solution with a mobile AI-enabled application called Frida, and an IoT device called fridaSOS, which can be installed in schools and universities. The solution uses built-in AI functions to provide earthquake preparation, guide people through drills, predict the magnitude of earthquakes based on sensor data, identify the best escape routes during earthquakes, and detect people trapped in damaged classrooms. It is a first-of-a-kind complete solution for providing data collection, monitoring, notifications, and guidance before, during, and after a disaster.
 
-Code and documentation is in the process of being transferred. Watch this repository for updates on progress.
 
 Blog: [When an earthquake hits, Watson solution helps schools cope](https://developer.ibm.com/blogs/2018/10/17/mitigating-earthquakes-in-schools/)
 
-[![Helpchain](https://img.youtube.com/vi/LE2ZWJ3WUms/0.jpg)](https://www.youtube.com/watch?v=LE2ZWJ3WUms)
+[![Frida](https://img.youtube.com/vi/LE2ZWJ3WUms/0.jpg)](https://www.youtube.com/watch?v=LE2ZWJ3WUms)
 
 
 ## Vision Statement
@@ -28,5 +27,23 @@ We assembled the fridaSOS IoT device by integrating a device that has an earthqu
 ## Solution Roadmap
 We have developed the IoT integration tool kit and the AI-enabled mobile application contains key features. Frida mobile application contains an end-to-end solution that integrates with the IBM IoT platform and IBM Watson Studio. The mobile application's current features include: letting students sign up, submit a location, and select a school from stored school list, sending notifications of the earthquake magnitude, guiding drills, managing student lists, and texting entire classes. Our future roadmap adds more functionality to Frida, including applying a visual recognition model to show damaged buildings, using a Jupyter notebook to analyze school location data to guide the disaster drills, finding trapped victims, showing escape routes on a map through AI functions, and applying a blockchain for fundraising transparency in a web application. For this solution, we are focusing on earthquakes and schools, however, our kit can definitely be expanded to handle other types of natural disasters, such as volcanic eruptions, floods, landslides, hurricanes, and tornados. The IoT device can be manufactured in large scale and deployed into institutions. Frida can become one of most powerful and widely used mobile applications for disaster management across institutions globally.
 
+- [Frida roadmap](https://github.com/IBM/Frida/blob/master/ROADMAP.md) 
+
 ## How to contribute
 Please fork the code, make a contribution and create a pull request. If you have idea/requirement and want us to address a topic not already addressed, please open an issue and label it as type-requirement. If you would like to take on issue to work on, please select label as type-claimed. Let's make big impact on this life saving solution together! 
+
+Frida will consist of four repos including this one, which serves as the entry point and contains umbrella documentation:
+
+- [Frida](https://github.com/IBM/Frida) 
+- [Frida-APP](https://github.com/IBM/Frida-APP)
+- [Frida-backend](https://github.com/IBM/Frida-backend)
+- [Frida-ML](https://github.com/IBM/Frida-ML)
+- [Frida-IoT](https://github.com/IBM/Frida-IoT)
+
+## Frida Solution Development
+
+- [Frida roadmap](https://github.com/IBM/Frida/blob/master/ROADMAP.md) 
+- [Frida featurelog](https://github.com/IBM/Frida/blob/master/FEATURELOG.md) 
+- [Frida download](https://github.com/IBM/Frida/blob/master/download.md) (Comming soon)
+
+
