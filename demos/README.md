@@ -9,7 +9,7 @@
 ### IBM-Affiliated
 - [IBM Developer: Frida, An end-to-end solution with a mobile AI-enabled application called Frida and an IoT device called fridaSOS](https://developer.ibm.com/open/projects/frida/)
 - [IBM Developer: When an earthquake hits, Watson solution helps schools cope](https://developer.ibm.com/blogs/2018/10/17/mitigating-earthquakes-in-schools/)
-- [IBM Developer: Women in Watson, Lin Ju)](https://developer.ibm.com/blogs/2018/10/19/women-in-watson-lin-ju/)
+- [IBM Developer: Women in Watson, Lin Ju](https://developer.ibm.com/blogs/2018/10/19/women-in-watson-lin-ju/)
 
 ### Independent
 - [Canadian-developed earthquake prediction app wins IBM’s Call for Code](https://mobilesyrup.com/2018/11/09/ibm-canada-team-wins-call-for-code-earthquake-prediction-technology/)
