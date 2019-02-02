@@ -13,7 +13,7 @@
 
 ### Independent
 - [Canadian-developed earthquake prediction app wins IBM’s Call for Code](https://mobilesyrup.com/2018/11/09/ibm-canada-team-wins-call-for-code-earthquake-prediction-technology/)
-- [Candian Tech News: CANADIAN-DEVELOPED EARTHQUAKE PREDICTION APP WINS IBM’S CALL FOR CODE](https://www.canadiantechnews.ca/canadian-developed-earthquake-prediction-app-wins-ibms-call-for-code/)
+- [Canadian Tech News: CANADIAN-DEVELOPED EARTHQUAKE PREDICTION APP WINS IBM’S CALL FOR CODE](https://www.canadiantechnews.ca/canadian-developed-earthquake-prediction-app-wins-ibms-call-for-code/)
 
 # IBM Products
 ## Watson Studio & Watson IoT Platform & Watson Machine Learning
