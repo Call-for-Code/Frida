@@ -13,3 +13,147 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+ html, body {
+	 margin: 0;
+	 padding: 0;
+	 font-family: arial;
+ }
+
+ .header {
+	padding: 30px;
+	padding-top: 45px;
+ }
+
+ .section {
+	padding: 60px;
+ }
+
+ .splitSection {
+	display: flex;
+ }
+
+ .section .left,
+ .section .right {
+	display: flex;
+	flex: 1;
+	padding: 30px;
+	flex-direction: column;
+ }
+
+ .stickRight {
+	align-items: flex-end;
+	text-align: right;
+ }
+
+ .vcenter {
+	justify-content: center;
+ }
+
+ .center {
+	 text-align: center;
+	 align-items: center;
+ }
+
+ h1, h2, h3, p {
+	 color: white;
+ }
+
+ p {
+	 font-size: 22px;
+	 line-height: 40px;
+ }
+
+ .largeText {
+	font-size: 25px;
+	line-height: 45px;
+ }
+
+ .darkSection {
+	 background: #192C45;
+ }
+
+ .lightSection {
+	 background: #5AC470;
+	 color: #000 !important;
+ }
+
+ .phone {
+	 width: fit-content;
+ }
+
+ .padding0 {
+	padding: 0;
+ }
+
+ .padding30 {
+	padding: 30px;
+ }
+
+ .padding60 {
+	padding: 60px;
+ }
+
+ .padding90 {
+	padding: 90px;
+ }
+
+ .padding120 {
+	padding: 120px !important;
+ }
+
+ .paddingTopBottom {
+	padding-top: 120px;
+	padding-bottom: 120px;
+ }
+
+ .button {
+	border: 1px solid white;
+	color: white;
+	padding: 20px;
+	width: fit-content;
+	cursor: pointer;
+	text-decoration: none;
+ }
+
+ .blueButton {
+	border: 1px solid #5EAAFB;
+	color: #5EAAFB;
+ }
+
+ .grayBackground {
+	background: #F6F7FB;
+ }
+
+ .blackText {
+	 color: #000;
+ }
+ .grayText {
+	color: #5E6B73;
+ }
+ 
+ .innerRow {
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+ }
+
+ .innerRow div {
+	padding-top: 40px;
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+ }
+  
+ .innerCol {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+ }
+
+ .innerCol div {
+	display: flex;
+	flex: 1;
+	flex-direction: row;
+	justify-content: center;
+ }
