@@ -1,3 +1,10 @@
+## 1.0.2 (2019-02-08)
+
+- Feautre [Simulate Sensor data flow into application] https://github.com/IBM/Frida/issues/9
+- Feature [Show escape routes on a map](https://github.com/IBM/Frida/issues/5)
+- Feature [Predict Earthquake's magnitude in notebook ](https://github.com/IBM/Frida/issues/11)
+
+
 ## 1.0.2 (2019-02-02)
 
 - Add [Frida Design Thinking Process](https://github.com/IBM/Frida/blob/master/design/Frida%20Application%20Design%20Thinking.md)
