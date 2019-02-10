@@ -1,8 +1,10 @@
 ## 1.0.2 (2019-02-08)
 
+- First MVP of Frida web site has been released at http://www.frida-ai.org
 - Feautre [Simulate Sensor data flow into application] https://github.com/IBM/Frida/issues/9
 - Feature [Show escape routes on a map](https://github.com/IBM/Frida/issues/5)
 - Feature [Predict Earthquake's magnitude in notebook ](https://github.com/IBM/Frida/issues/11)
+
 
 
 ## 1.0.2 (2019-02-02)
