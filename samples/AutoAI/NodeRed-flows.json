@@ -1,0 +1,101 @@
+[
+    {
+        "id": "b47f3fb1.5c2fc",
+        "type": "tab",
+        "label": "VR Demo",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "a6e38f2b.a4d12",
+        "type": "visual-recognition-v3",
+        "z": "b47f3fb1.5c2fc",
+        "name": "VR Model",
+        "vr-service-endpoint": "https://gateway.watsonplatform.net/visual-recognition/api",
+        "image-feature": "classifyImage",
+        "lang": "en",
+        "x": 540,
+        "y": 280,
+        "wires": [
+            [
+                "892cc793.4abf88",
+                "b90cbd85.6ad32"
+            ]
+        ]
+    },
+    {
+        "id": "892cc793.4abf88",
+        "type": "debug",
+        "z": "b47f3fb1.5c2fc",
+        "name": "Raw Content",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 750,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "2c543a4b.e15186",
+        "type": "fileinject",
+        "z": "b47f3fb1.5c2fc",
+        "name": "",
+        "x": 120,
+        "y": 280,
+        "wires": [
+            [
+                "5dd6f1c4.0506c"
+            ]
+        ]
+    },
+    {
+        "id": "5dd6f1c4.0506c",
+        "type": "function",
+        "z": "b47f3fb1.5c2fc",
+        "name": "Set Model classifier_ids",
+        "func": "msg.params={}\nmsg.params['classifier_ids']='DefaultCustomModel_1064405710';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 330,
+        "y": 280,
+        "wires": [
+            [
+                "a6e38f2b.a4d12"
+            ]
+        ]
+    },
+    {
+        "id": "b90cbd85.6ad32",
+        "type": "function",
+        "z": "b47f3fb1.5c2fc",
+        "name": "Result extraction",
+        "func": "const result = msg.result.images[0].classifiers[0].classes[0]\nreturn result;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 750,
+        "y": 360,
+        "wires": [
+            [
+                "78906538.e1c7ac"
+            ]
+        ]
+    },
+    {
+        "id": "78906538.e1c7ac",
+        "type": "debug",
+        "z": "b47f3fb1.5c2fc",
+        "name": "Parsed Content",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 760,
+        "y": 460,
+        "wires": []
+    }
+]
