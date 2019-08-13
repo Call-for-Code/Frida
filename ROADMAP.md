@@ -8,11 +8,14 @@ and finding trapped victims, showing escape routes on a map through AI functions
 
  - Submit a location
  - Select a school from stored school list
- - receive notification of the earthquake magnitude
+ - Receive notification of the earthquake magnitude
  - Guide drills [Done]
  - Manage user list [Done]
  - Text to entire classes and first responder [Done]
   - Escapte route [Done]
  
  ## Backlog for Frida V1.0
- - Predict Earthquake magitude [in process]
+ 
+ - Escape route [in progress]
+ - Predict Earthquake magnitude [in process]
+
