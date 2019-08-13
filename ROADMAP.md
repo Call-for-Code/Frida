@@ -12,7 +12,10 @@ and finding trapped victims, showing escape routes on a map through AI functions
  - Guide drills [Done]
  - Manage user list [Done]
  - Text to entire classes and first responder [Done]
+  - Escapte route [Done]
  
  ## Backlog for Frida V1.0
+ 
  - Escape route [in progress]
  - Predict Earthquake magnitude [in process]
+
