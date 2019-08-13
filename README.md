@@ -45,7 +45,7 @@ Frida will consist of four repos including this one, which serves as the entry p
 ## Frida Solution Development
 
 - [Frida roadmap](https://github.com/IBM/Frida/blob/master/ROADMAP.md) 
-- [Frida releasenotes](https://github.com/IBM/Frida/blob/master/RELEASENOTES.md) 
+- [Frida release notes](https://github.com/IBM/Frida/blob/master/RELEASENOTES.md) 
 
 
 
